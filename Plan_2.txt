@@ -1,0 +1,5 @@
+plan for the third month
+1. finish and test the receiver to receive from NIC.
+2. integrating sip, whatsapp, skypee and viber deep inspection codes and save the metadatas into a database .
+3. further inspection of metadatas of the proprietary protocols.
+4. finish and the update the code performance.  
